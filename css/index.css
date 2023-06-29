@@ -25,7 +25,8 @@ nav {
     text-align: right;
 }
 
-#button {display: inline-block;
+#button {
+    display: inline-block;
     background-color: #e46613;
     padding: 18px 20px;
     margin-right: 0;
@@ -51,3 +52,4 @@ a:before {
     height: 10px;
     margin-right: 05px;
 }
+
