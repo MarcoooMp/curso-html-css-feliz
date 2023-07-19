@@ -1,0 +1,18 @@
+.progress-bar {
+    box-sizing: border-box;
+    background-color: #FFF;
+    border: 5px solid black;
+    height: 40px;
+}
+
+/* Estilizar a barra de progresso em navegadores WebKit (Safari e Chrome) */
+progress::-webkit-progress-value,
+progress::-moz-progress-value {
+    background-color: #7c5e99; /* Definir a cor fixa da barra de progresso */
+    width: 100%;
+}
+
+/* Estilizar a barra de progresso em outros navegadores */
+progress {
+    background-color: #7c5e99; /* Definir a cor fixa da barra de progresso */
+}
