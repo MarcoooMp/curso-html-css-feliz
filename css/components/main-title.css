@@ -2,15 +2,12 @@
     font-family: "Press Start 2P", Arial, Helvetica, sans-serif;
     font-size: 40px;
     color: #e46613;
-    text-shadow: 05px 05px 0 black;
+    text-shadow: 04px 04px 0 black;
 }
 
 
 .main-title.-second {
-    color: white;
-    font-size: 40px;
-    padding-top: 20px;
-    font-family: "Press Start 2P", Arial, Helvetica, sans-serif;
-    text-shadow: 04px 04px 0 black;    
-    text-align: center;
+    color: #FFF;
+    text-shadow: none;
+    text-align:center;
 }
